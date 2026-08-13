@@ -23,7 +23,7 @@ repository               : "bowenlu990.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avator.png"
   name             : "Bowen Lu (陆博文)"
   pronouns         : # example: "He"  
   #bio              : "Anhui University"
