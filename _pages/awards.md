@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# AWARDS
-# ======
 2025: Anhui University Outstanding Graduate Student
