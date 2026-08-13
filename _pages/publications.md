@@ -1,64 +1,26 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: ""
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /publications
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- [Causal Intervention with Topology Augmentation for Node-Level Out-of-Distribution on Graphs](https://www.sciencedirect.com/science/article/pii/S0031320326015803)\\
+  Lianqiang Yang, **Bowen Lu**, Teng Li*, Yunfei He, Kun Zhang\\
+  Pattern Recognition, 2026.
+
+- [CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304)\\
+  **Bowen Lu**, Lianqiang Yang*, Teng Li, Kun Zhang\\
+  Submitted to an ACM Transaction Journal, 2026.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- [A CLIP-Guided Generator Domain Adaptation Method Based on Structural Enhancement and Joint Optimization](https://ieeexplore.ieee.org/abstract/document/11540886)\\
+  Xudong Bu, Lianqiang Yang*, **Bowen Lu**\\
+  2026 11th International Conference on Intelligent Computing and Signal Processing (ICSP)
+
