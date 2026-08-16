@@ -13,7 +13,7 @@ Publications
 ======
 - [Causal Intervention with Topology Augmentation for Node-Level Out-of-Distribution on Graphs](https://www.sciencedirect.com/science/article/pii/S0031320326015803)\\
   Lianqiang Yang, **Bowen Lu**, Teng Li*, Yunfei He, Kun Zhang\\
-  Pattern Recognition, 2026.
+  Pattern Recognition, 2026. [code](https://github.com/bowenlu990/CITA)
 
 - [CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304)\\
   **Bowen Lu**, Lianqiang Yang*, Teng Li, Kun Zhang\\
